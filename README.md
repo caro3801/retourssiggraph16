@@ -5,15 +5,15 @@ Baptiste Angles
 Caroline Desprat
 ##Outline
 1. Introduction 
-* SIGGRAPH 2016
-* VR Village, Art.. 
-* Wow time
+  * SIGGRAPH 2016
+  * VR Village, Art.. 
+  * Wow time
 2. Technical Papers
-* ZoeMatrope: A System for Physical Material Design 
-* Perspective-aware Manipulation of Portrait Photos
-* cSculpt: A System for Collaborative Sculpting
-* Procedural Voronoi Foams for Additive Manufacturing 
-* SemanticPaint: Interactive Segmentation and Learning of 3D World
+  * ZoeMatrope: A System for Physical Material Design 
+  * Perspective-aware Manipulation of Portrait Photos
+  * cSculpt: A System for Collaborative Sculpting
+  * Procedural Voronoi Foams for Additive Manufacturing 
+  * SemanticPaint: Interactive Segmentation and Learning of 3D World
 3. Conclusion
 4. Paper references
 5. Ressources
