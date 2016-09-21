@@ -1,8 +1,7 @@
 # SIGGRAPH 2016 Feedbacks
-Presentation of SIGGRAPH feedbacks during VORTEX's team seminar at IRIT (Toulouse, France) - September 15, 2016
+Presentation of SIGGRAPH 2016 feedbacks during VORTEX's team seminar at IRIT (Toulouse, France) - September 15, 2016
 ##Presenters
-Baptiste Angles
-Caroline Desprat
+Baptiste Angles and Caroline Desprat
 ##Outline
 1. Introduction 
   * SIGGRAPH 2016
